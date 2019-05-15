@@ -30,4 +30,4 @@ This dll is a helper to code optimization. It's an extention code, that it conta
 it function is encrypt and decrypt everything that you need to be secret, and if someone try to get this information. it can be unreadable.
 
 ## Update 15/05/2019
-Added a new module for validate TextBoxes and fix the referencias.
+Added a new module for validate TextBoxes and fix the unable references.
