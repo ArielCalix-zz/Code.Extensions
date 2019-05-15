@@ -21,12 +21,13 @@ del mantenimiento y operaciones con registros de BD, y el Encrypter o Encriptado
 el cual se encarga de cifrar y descifrar todo lo que necesitas, o solamente las claves que serán almacenadas en la BD para que nadie 
 pueda obtenerlas.
 
-# Actualizacion 15/05/2019
+## Actualizacion 15/05/2019
 Se agrego un nuevo modulo de validacion de campos para las cajas de texto y se arreglaron las referencias faltantes.
 
+# Code.Extensions
 This dll is a helper to code optimization. It's an extention code, that it contains three parts, a ConnectionManager 
 (That manage the BD Connection), The CRUD (Create-Read-Update-Delete) the four basics operation with regs, and the Encrypter, 
 it function is encrypt and decrypt everything that you need to be secret, and if someone try to get this information. it can be unreadable.
 
-# Update 15/05/2019
+## Update 15/05/2019
 Added a new module for validate TextBoxes and fix the referencias.
