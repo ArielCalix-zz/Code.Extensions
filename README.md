@@ -23,6 +23,7 @@ pueda obtenerlas.
 
 ## Actualizacion 15/05/2019
 Se agrego un nuevo modulo de validacion de campos para las cajas de texto y se arreglaron las referencias faltantes.
+>Nota: Esta biblioteca fue diseñada bajo el modelo de tres capas en VB.Net, **NO** se ha probado bajo otro modelo.
 
 # Code.Extensions
 This dll is a helper to code optimization. It's an extention code, that it contains three parts, a ConnectionManager 
@@ -31,3 +32,4 @@ it function is encrypt and decrypt everything that you need to be secret, and if
 
 ## Update 15/05/2019
 Added a new module for validate TextBoxes and fix the unable references.
+>Note: This library has been designed under three layers model, It is **NOT** tested under other model.
